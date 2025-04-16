@@ -8,4 +8,4 @@ Ollama.darwin.zip
 agent.py
 oneagent.py
 unsen.py
-chatbot-client/
+chat_memory.json
