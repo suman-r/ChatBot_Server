@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+env/
+Ollama.app/
+Ollama.darwin.zip/
+Ollama.darwin.zip
+*.zip
+agent.py
+oneagent.py
+unsen.py
